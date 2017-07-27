@@ -1,2 +1,2 @@
 # NodeJS
-Onluy for node, react, phonegap and mongo
+Only for node, react, phonegap and mongo
